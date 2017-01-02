@@ -8,4 +8,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/jfburrows/2017garmin.git
 git push -u origin master
 <li>bricks</li>
+bricks
+<bold>bricks<Bold>
+
 
