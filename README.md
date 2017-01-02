@@ -7,8 +7,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/jfburrows/2017garmin.git
 git push -u origin master
+<ul>
 <li>bricks</li>
-bricks
-<bold>bricks<Bold>
+more bricks
+<li><bold>bricks<Bold>
+
 
 
